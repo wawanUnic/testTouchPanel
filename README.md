@@ -1,5 +1,7 @@
 # testTouchPanel
 
+![TouchPanel](pic/pic1.png)
+
 ```
 === ЦИКЛ 534 ===
 Питание ВКЛ
